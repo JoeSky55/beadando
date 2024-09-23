@@ -1,0 +1,20 @@
+.kep{
+    transition: transform 0.2s ease;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 225px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+.stilus_hover:hover{
+    transform: scale(1);
+}
+body{
+    background-image: url(bg2.jpg)  ;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.h4{
+    text-align: center;
+}
